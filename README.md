@@ -1,5 +1,9 @@
 # firebase_primaapp
 
+TUGAS MOBILE PROGRAMMING 
+PRIMA PUTRA - 181011400585
+KELAS 06TPLE010
+
 A new Flutter project.
 
 ## Getting Started
