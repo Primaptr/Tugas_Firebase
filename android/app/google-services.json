@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746121851684",
+    "project_id": "primatugasfirebase",
+    "storage_bucket": "primatugasfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746121851684:android:a472fdaade8822d10a79b1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_primaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746121851684-1bfhr69omef5uhckkobo4nloflfot3t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCeH_UQ7ggF0RMdEc8jgiwA4wxQzwZ6Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746121851684-1bfhr69omef5uhckkobo4nloflfot3t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
